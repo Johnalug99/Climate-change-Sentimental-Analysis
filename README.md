@@ -17,7 +17,7 @@ This project explores over **100,000 climate change-related tweets** using Natur
 - **Size**: 100,000+ rows
 - **Features**: 
   - `gender`, `sentiment`, `stance`, `aggressiveness`
-  - `avg_temp`, `topic`, `country`, `disaster_event`
+  - `avg_temp`, `topic`, `country`, 
   - Temporal (`year`, `month`, `day`)
 
 ---
